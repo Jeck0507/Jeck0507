@@ -21,6 +21,7 @@ I'm self taught in development as a hobby
 
 
 취미로 개발 독학중 
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 ---
 
@@ -28,9 +29,9 @@ I'm self taught in development as a hobby
 
 #### Web
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 #### CS
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
 ####  DataScience
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
