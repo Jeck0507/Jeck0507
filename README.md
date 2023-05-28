@@ -49,7 +49,7 @@ The juniors in the school club also use it
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> 
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> 
-<img src="https://img.shields.io/badge/scikitearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> 
+<img src="https://img.shields.io/badge/scikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> 
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 
 
