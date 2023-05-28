@@ -11,6 +11,7 @@ Since the copyright belongs to Professor Lee Sang-hong, important projects are n
 I'm self taught in development as a hobby
 
 
+The juniors in the school club also use it
 
 
 
@@ -21,6 +22,9 @@ I'm self taught in development as a hobby
 
 
 취미로 개발 독학중 
+
+
+학교 동아리 후배들도 같이 씀
 <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 ---
