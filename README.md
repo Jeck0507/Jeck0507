@@ -8,9 +8,6 @@ I'm self taught in development as a hobby
 
 ---
 
-### Stack
-
-</div>
 
 
 
