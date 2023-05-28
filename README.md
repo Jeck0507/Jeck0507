@@ -14,7 +14,7 @@ I'm self taught in development as a hobby
 The juniors in the school club also use it
  
 
--
+--
 
 
 저는 안양대학교 소속으로 컴퓨터 과학을 공부하고 있습니다
