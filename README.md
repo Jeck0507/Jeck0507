@@ -9,8 +9,7 @@ I'm self taught in development as a hobby
 ---
 
 ### Stack
-
- ![C](https://img.shields.io/badge/c%23-%#A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
+ ![C](https://img.shields.io/badge/C-%A8B9CC.svg?style=for-the-badge&logo=Ct&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-%F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
