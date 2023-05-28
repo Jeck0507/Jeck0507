@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://opgc.me/#/users/Jeck0507" target="_blank"><img src="https://api.opgc.me/githubs/users/Jeck0507/tag/?theme=basic" /></a>
