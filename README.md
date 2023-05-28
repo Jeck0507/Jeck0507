@@ -39,7 +39,7 @@ The juniors in the school club also use it
 <img src="https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/AmazonAWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 
 
