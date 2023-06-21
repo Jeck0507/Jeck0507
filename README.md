@@ -60,4 +60,6 @@ The juniors in the school club also use it
 
 ![Jeck's github stats](https://github-readme-stats.vercel.app/api?username=Jeck0507&show_icons=true&theme=tokyonight)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeck0507)](https://solved.ac/jeck0507)
+
 
