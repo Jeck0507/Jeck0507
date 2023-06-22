@@ -56,9 +56,7 @@ The juniors in the school club also use it
 ---
 
 
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeck0507&layout=compact&theme=nord&hide_border=true" /></a> 
-
-![Jeck's github stats](https://github-readme-stats.vercel.app/api?username=Jeck0507&show_icons=true&theme=tokyonight)
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeck0507&layout=compact&theme=nord&hide_border=true" /></a> ![Jeck's github stats](https://github-readme-stats.vercel.app/api?username=Jeck0507&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeck0507)](https://solved.ac/jeck0507)
 
