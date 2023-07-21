@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Introdution
-I'm self taught in web development as a hobby
+
 
 
 취미로 웹 개발 독학중 
