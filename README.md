@@ -6,6 +6,7 @@ I'm self taught in web development as a hobby
 
 취미로 웹 개발 독학중 
 
+나도 프로젝트 내 깃허브에 커밋할 짬밥이 차면 조켔다..
 
 
 ---
